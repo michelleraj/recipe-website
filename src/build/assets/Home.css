@@ -1,0 +1,123 @@
+.u-section-1 {
+  background-image: url("images/06a9cdda72a691cc558ecac8ea4ca4ea12cd1eecbcb2b4ce01be15ca092f958c185b716e12de43abeaf560f5b9f7aa0cf0b2fa4b736ee95425786a_1280.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 774px;
+}
+
+.u-section-1 .u-group-1 {
+  width: 549px;
+  min-height: 689px;
+  height: auto;
+  background-image: none;
+  margin: 43px -13px 43px auto;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 30px 60px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 6rem;
+  background-image: none;
+  text-transform: uppercase;
+  animation-duration: 1000ms;
+  font-family: "Antic Didone";
+  margin: 0 -23px 0 -32px;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 4.5rem;
+  font-family: "Antic Didone";
+  margin: 105px 0 0;
+}
+
+.u-section-1 .u-text-3 {
+  font-size: 4.5rem;
+  font-family: "Antic Didone";
+  margin: 10px 4px 0 -4px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 638px;
+  }
+
+  .u-section-1 .u-group-1 {
+    height: auto;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-weight: normal;
+  }
+
+  .u-section-1 .u-text-2 {
+    font-weight: normal;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 489px;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 505px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 367px;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 349px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 3.75rem;
+  }
+
+  .u-section-1 .u-text-2 {
+    font-size: 3.75rem;
+  }
+
+  .u-section-1 .u-text-3 {
+    font-size: 3.75rem;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 231px;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 288px;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 0;
+    margin-left: 0;
+    font-size: 3rem;
+  }
+
+  .u-section-1 .u-text-2 {
+    font-size: 3rem;
+  }
+
+  .u-section-1 .u-text-3 {
+    font-size: 3rem;
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
